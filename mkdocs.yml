@@ -1,0 +1,7 @@
+site_name: "sentinel-workbook-test"
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: index.md
