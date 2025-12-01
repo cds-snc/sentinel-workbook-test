@@ -1,4 +1,4 @@
-site_name: "sentinel-workbook-test"
+site_name: "Sentinel workbook test"
 
 plugins:
   - techdocs-core
