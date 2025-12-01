@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sentinel-workbook-test
-  description: sentinel-workbook-test testing repo
+  name: test
+  description: ajdfhakjdfh
   annotations:
     github.com/project-slug: cds-snc/sentinel-workbook-test
     backstage.io/techdocs-ref: dir:.
