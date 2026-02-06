@@ -2,11 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sentinel-workbook-test
-  description: Sentinel workbook test
+  title: Sentinel testing site
+  description: Site for testing Sentinel things. 
   annotations:
     github.com/project-slug: cds-snc/sentinel-workbook-test
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: website 
+  type: service
   lifecycle: production
   owner: group:cds-snc/internal-sre
+
